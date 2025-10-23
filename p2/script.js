@@ -6,4 +6,6 @@ function varsta(){
     else{
         console.log("Nu poti obtine permisul de conducere");
     }
+
+    //Si acum aici audaug un comentariu 
 }
