@@ -1,1 +1,1 @@
-console.log(Sa;lut);
+console.log(Salut);
